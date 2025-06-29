@@ -2,8 +2,8 @@
 
 @theme {
   --font-display: "sans-serif";
-  --color-primary: #8CA87C; /*verde apagado*/
-  --color-preto:#000000;
+  --color-primary: oklch(0.6986 0.0697 134.38); /* #8CA87C;*/ /*verde apagado*/
+  --color-preto: #000000;
   --color-verde-escuro: #3E5120;
   --color-verde-acinzentado: #414B3B;
   --color-marrom: #764B36;
