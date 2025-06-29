@@ -2,7 +2,7 @@
 
 @theme {
   --font-display: "sans-serif";
-  --color-primary: oklch(0.6986 0.0697 134.38); /* #8CA87C;*/ /*verde apagado*/
+  --color-primary: #8CA87C; /*verde apagado*/
   --color-preto: #000000;
   --color-verde-escuro: #3E5120;
   --color-verde-acinzentado: #414B3B;
@@ -13,4 +13,8 @@
   --color-laranja-acinzentado-pastel: #D8A790;
   --color-laranja-claro: #EFE7DD;
   --color-laranja-claro-light: #FFF9F3;
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
 }
