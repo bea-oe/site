@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@theme {
+:root {
   --color-primary: #8CA87C; /*verde apagado*/
   --color-preto: #000000;
   --color-verde-escuro: #3E5120;
