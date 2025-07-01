@@ -51,3 +51,37 @@ body{
 .bg-laranja-claro-light {
   background-color: var(--color-laranja-claro-light);
 }
+
+.text-primary {
+  color: var(--color-primary);
+}
+.text-preto {
+  color: var(--color-preto);
+}
+.text-verde-escuro {
+  color: var(--color-verde-escuro);
+}
+.text-verde-acinzentado {
+  color: var(--color-verde-acinzentado);
+}
+.text-marrom {
+  color: var(--color-marrom);
+}
+.text-cinza-claro {
+  color: var(--color-cinza-claro);
+}
+.text-laranja-apagado {
+  color: var(--color-laranja-apagado);
+}
+.text-verde-claro {
+  color: var(--color-verde-claro);
+}
+.text-laranja-acinzentado-pastel {
+  color: var(--color-laranja-acinzentado-pastel);
+}
+.text-laranja-claro {
+  color: var(--color-laranja-claro);
+}
+.text-laranja-claro-light {
+  color: var(--color-laranja-claro-light);
+}
